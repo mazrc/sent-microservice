@@ -1,0 +1,12 @@
+
+fsquid:IndentationCheck"DMake this line start after 2 spaces to indent the code consistently.(æªë¯
+ksquid:IndentationCheck"DMake this line start after 4 spaces to indent the code consistently.(ª¿¥Ïüÿÿÿÿ
+fsquid:IndentationCheck"DMake this line start after 4 spaces to indent the code consistently.(º õ
+ksquid:IndentationCheck"DMake this line start after 4 spaces to indent the code consistently.(ª¿¥Ïüÿÿÿÿ
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(£ôÓÀ
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(óîâ
+o"squid:LeftCurlyBraceStartLineCheck
+"AMove this left curly brace to the beginning of next line of code.(«»Ûà
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ü­ÀË
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Á»›ê
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óîâ

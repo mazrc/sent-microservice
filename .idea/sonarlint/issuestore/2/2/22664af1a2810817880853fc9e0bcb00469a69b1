@@ -1,0 +1,44 @@
+
+ksquid:IndentationCheckA"DMake this line start after 4 spaces to indent the code consistently.(Õ°½íûÿÿÿÿ
+Rsquid:S2039"/Explicitly declare the visibility for "LOGGER".(­Æ£üÿÿÿÿ8ØûÆÿğ-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ò×³Ùüÿÿÿÿ8ó›Ãçô-
+Qsquid:S1312".Make the "LOGGER" logger private static final.(­Æ£üÿÿÿÿ8ØûÆÿğ-
+v"squid:LeftCurlyBraceStartLineCheck9"AMove this left curly brace to the beginning of next line of code.(Úîø›8ÅëÓçô-
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(Õ°½íûÿÿÿÿ
+Lsquid:S2039".Explicitly declare the visibility for "gauge".(İ’’8Ê£·çô-
+esquid:IndentationCheck%"DMake this line start after 4 spaces to indent the code consistently.(— ’
+t"squid:LeftCurlyBraceStartLineCheck$"AMove this left curly brace to the beginning of next line of code.(‰‡é¶ûÿÿÿÿ
+t
+squid:S1090"RAssign this magic number 5 to a well-named constant, and use the constant instead.(Ò—¥Ëüÿÿÿÿ8ÑÒÁçô-
+Ssquid:S2039"0Explicitly declare the visibility for "counter".(”ŒÆÜùÿÿÿÿ8Ê£·çô-
+[squid:S1213"8Move this variable to comply with Java Code Conventions.(­Æ£üÿÿÿÿ8ó›Ãçô-
+rsquid:IndentationCheck"DMake this line start after 4 spaces to indent the code consistently.(ÑØˆƒùÿÿÿÿ8ó›Ãçô-
+Lsquid:S2208".Explicitly import the specific classes needed.(Ñ»ïÒ8ùÕ‰ığ-
+csquid:TrailingCommentCheck4"6Move this trailing comment on the previous empty line.(’»Ì8¡ÆØçô-
+o"squid:LeftCurlyBraceStartLineCheck@"AMove this left curly brace to the beginning of next line of code.(Ë·Ó»
+t"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¸·ªûÿÿÿÿ
+àsquid:S4605"¼'SentimentController' is not reachable by @ComponentsScan or @SpringBootApplication. Either move it to a package configured in @ComponentsScan or update your @ComponentsScan configuration.(¸·ªûÿÿÿÿ8îùˆığ-
+rsquid:IndentationCheck"DMake this line start after 2 spaces to indent the code consistently.(Ò×³Ùüÿÿÿÿ8ó›Ãçô-
+Ssquid:S2039"0Explicitly declare the visibility for "summary".(¹Ù÷÷ÿÿÿÿÿ8Ê£·çô-
+[squid:S1213!"8Move this variable to comply with Java Code Conventions.(Ë›†Âøÿÿÿÿ8ó›Ãçô-
+lsquid:IndentationCheck6"DMake this line start after 6 spaces to indent the code consistently.(Ûµ­>8ºŒÕçô-
+Osquid:S2039"2Explicitly declare the visibility for "histogram".(¦İ¶D8Ê£·çô-
+Vsquid:S1213"8Move this variable to comply with Java Code Conventions.(İ’’8ó›Ãçô-
+isquid:S00103"KSplit this 126 characters long line (which is greater than 120 authorized).(¦İ¶D8·ÿ½çô-
+y2squid:RightCurlyBraceDifferentLineAsNextBlockCheck9"4Move this "finally" keyword to a new dedicated line.(Úîø›8ÅëÓçô-
+[squid:S1213"8Move this variable to comply with Java Code Conventions.(”ŒÆÜùÿÿÿÿ8ó›Ãçô-
+Usquid:S1213"8Move this variable to comply with Java Code Conventions.(¦İ¶D8ó›Ãçô-
+o
+squid:S109/"RAssign this magic number 5 to a well-named constant, and use the constant instead.(š÷±Ù8ÑÒÁçô-
+usquid:S00116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Æ£üÿÿÿÿ8ØûÆÿğ-
+msquid:IndentationCheck;"DMake this line start after 6 spaces to indent the code consistently.(çôğÕ8ÅëÓçô-
+{"squid:LeftCurlyBraceStartLineCheck5"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ÅëÓçô-
+_squid:S3457'"AFormat specifiers should be used instead of string concatenation.(ı’·”8Âª‡ığ-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(‚âŞè8Ö§ƒñ-
+[squid:S1213"8Move this variable to comply with Java Code Conventions.(¹Ù÷÷ÿÿÿÿÿ8ó›Ãçô-
+]squid:S1258":Add a constructor to the class, or provide default values.(¸·ªûÿÿÿÿ8ÏœÉÿğ-
+p
+squid:S109/"SAssign this magic number 10 to a well-named constant, and use the constant instead.(š÷±Ù8ÑÒÁçô-
+zsquid:S2629'"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ı’·”8¶…» õ-

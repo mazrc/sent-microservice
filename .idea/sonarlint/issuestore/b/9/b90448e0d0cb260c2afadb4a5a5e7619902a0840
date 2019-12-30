@@ -1,0 +1,6 @@
+
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ê‰“¸
+]squid:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F
+jsquid:S00103"KSplit this 125 characters long line (which is greater than 120 authorized).(›Â„¬8–öŞçô-
+˜squid:S4603"Consider replacing "@SpringBootApplication" by a list of beans imported with @Import to speed-up the start-up of the application.(ûª¢F
+o"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Çµí‘
