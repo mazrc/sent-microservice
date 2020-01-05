@@ -34,6 +34,13 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+		<!-- Configure Spring Boot to send logs in JSON-Format -->
+		<dependency>
+			<groupId>net.logstash.logback</groupId>
+			<artifactId>logstash-logback-encoder</artifactId>
+			<version>5.1</version>
+		</dependency>
+
 		<!-- Prometheus -->
 		<dependency>
 			<groupId>io.prometheus</groupId>
